@@ -1,0 +1,5 @@
+{"prompt": "Prevedi quale emoji sia più probabile associare al testo del tweet: '{{sentence}}'. Scegli tra le opzioni: {{choices}}."}
+{"prompt": "Quale emoji pensi si adatti meglio al contenuto del tweet: '{{sentence}}'? Seleziona tra: {{choices}}."}
+{"prompt": "Valuta quale emoji sia più adatta al testo del tweet: '{{sentence}}'. Opzioni disponibili: {{choices}}."}
+{"prompt": "Scegli l'emoji che ritieni più appropriata per il testo del tweet: '{{sentence}}'. Scegli tra le seguenti opzioni: {{choices}}."}
+{"prompt": "Considera il testo del tweet: '{{sentence}}'. Quale emoji credi meglio lo rappresenti? Scegli tra: {{choices}}."}

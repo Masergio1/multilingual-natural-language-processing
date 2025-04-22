@@ -1,0 +1,5 @@
+{"prompt": "Confronta il testo {{text}} seguente e prova a individuare il genere dell'autore tra le categorie {{choices}}."}
+{"prompt": "Analizzando il testo {{text}} fornito, cerca di capire il genere dell'autore tra le categorie {{choices}}."}
+{"prompt": "Considerando il seguente testo {{text}}, tenta di ipotizzare il genere dell'autore tra le categorie {{choices}}."}
+{"prompt": "Esplora il testo {{text}} e cerca di determinare il genere dell'autore tra le categorie {{choices}}."}
+{"prompt": "Osserva attentamente il seguente testo {{text}} e prova a individuare il genere dell'autore tra le categorie {{choices}}."}
